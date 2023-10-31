@@ -1,0 +1,38 @@
+body {
+  background: rgb(190, 188, 182);
+  color: rgb(0, 0, 0);
+  max-width: 600px;
+  margin: auto;
+
+}
+
+a {
+  /*text-decoration: none;*/
+  color: black;
+}
+a:hover {
+   color: white;
+ }
+
+a.go-back {
+  font-weight: bold;
+  color: #e0ded8;
+}
+a.go-back:hover{
+  color: #242624;
+}
+
+
+
+p {
+  line-height: 1.5;
+}
+
+div {
+  margin-bottom: 1rem;
+}
+article {
+  padding-top: 2rem;
+  border-bottom: 1px solid #1a1818;
+
+}
